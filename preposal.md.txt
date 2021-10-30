@@ -1,0 +1,19 @@
+# Preproposal
+
+## What idea(s) do you have for your final project?
+
+TODO
+I want to create a webpage called "The Magic Snowball" that will predict snow days based on the same 
+parameters that the City of Philadelphia uses to declare a snow emergency. The reason for that is 
+because many organizations rely on this to make decisions for their own organizations in regards to snow
+closings.
+
+## If you plan to collaborate with one or two classmates, what are their names?
+
+TODO
+Solo project
+
+## Do you have any questions of your own?
+
+TODO
+None, for now.
